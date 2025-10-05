@@ -1,6 +1,6 @@
 <div align='center'>
 
-# 🚀 RestAssured Cucumber BDD Framework
+# 🚀 RestAssured Cucumber BDD Project
 
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/256e60d0-b608-403a-a28d-097c6bb4b945" />
 
