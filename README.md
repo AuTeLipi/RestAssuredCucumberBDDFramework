@@ -24,6 +24,26 @@ A comprehensive **Rest API Automation Project** leveraging **RestAssured**, **Cu
 ---
 ## Allure Report
 
+<div align='center'>
+   
+<img width="1919" height="1027" alt="Image" src="https://github.com/user-attachments/assets/f70d1f2e-b37e-41b8-a452-d317be6db595" />
+
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/ec18f155-8102-4d39-b8cf-90e3b0ccb628" />
+
+</div>
+
+
+
+---
+
+## 📄 Feature File
+The feature file contains behavior-driven scenarios written in Gherkin syntax that describe the API test cases in a human-readable format. It defines the expected behavior of the API endpoints through Given–When–Then steps.
+
+---
+
+## 🔧 Step Definitions
+Step definitions provide the Java implementation of the steps defined in the feature file. Using RestAssured for API calls and TestNG assertions, they execute the requests and validate responses to ensure the API behaves as expected.
+ 
 ---
 
 ## ⚙️ Setup & Running Tests
@@ -42,14 +62,4 @@ A comprehensive **Rest API Automation Project** leveraging **RestAssured**, **Cu
    ```bash
    allure serve allure-results
 
----
 
-## 📄 Feature File
-The feature file contains behavior-driven scenarios written in Gherkin syntax that describe the API test cases in a human-readable format. It defines the expected behavior of the API endpoints through Given–When–Then steps.
-
----
-
-## 🔧 Step Definitions
-Step definitions provide the Java implementation of the steps defined in the feature file. Using RestAssured for API calls and TestNG assertions, they execute the requests and validate responses to ensure the API behaves as expected.
- 
----
