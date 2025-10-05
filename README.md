@@ -28,8 +28,6 @@ A comprehensive **Rest API Automation Project** leveraging **RestAssured**, **Cu
    
 <img width="1919" height="1027" alt="Image" src="https://github.com/user-attachments/assets/f70d1f2e-b37e-41b8-a452-d317be6db595" />
 
-<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/ec18f155-8102-4d39-b8cf-90e3b0ccb628" />
-
 </div>
 
 
